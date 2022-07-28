@@ -1,2 +1,4 @@
 Initial edit from 'hello.txt'
 "Hello World!"
+\n
+Newline char
